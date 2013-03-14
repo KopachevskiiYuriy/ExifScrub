@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exif Scrubber</string>
+    <string name="EXIF_CLEAR">Scrub EXIF</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_exif">ExifActivity</string>
+    <string name="NO_DATA">Error : No Exif Data?</string>
+    <string name="Overwrite">Overwrite Images</string>
+    <string name="Overwrite_true">Original image will be overwritten</string>
+    <string name="Overwrite_false">EXIF data will be scrubbed on a file copy</string>
+
+</resources>
